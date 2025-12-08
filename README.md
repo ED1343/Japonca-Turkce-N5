@@ -1,6 +1,6 @@
   <div align="center">
 
-  <img src="Gorseller/logo.png" width="424" height="632" alt="Proje Logosu">
+  <img src="Gorseller/logo.png" width="848" height="1264" alt="Proje Logosu">
   <br>
   
   <h1>JAPONCA N5</h1>
