@@ -25,167 +25,102 @@ Başarılar dilerim.
 
 ## 📑 İÇİNDEKİLER
 
-*(Not: Dersler eklendikçe başlıklar linklenecektir.)*
-
-### 🟢 Ders 1: Doğal Bir Cümle Kurmanın Temelleri
+### [🟢 Ders 1: Doğal Bir Cümle Kurmanın Temelleri](Dilbilgisi/01-Temel-Cumleler.md)
 *(İsim Cümleleri ve Temel İşaretler)*
-* N5 - だ (Da)
-* N5 - です (Desu)
-* N5 - は (Wa)
-* N5 - も (Mo)
-* N5 - これ (Kore)
-* N5 - それ (Sore)
-* N5 - あれ (Are)
-* N5 - 良い (İi)
-* N5 - の (No)
-* N5 - い-Sıfatları
-* N5 - な-Sıfatları
+* N5 - だ (Da), です (Desu)
+* N5 - は (Wa), も (Mo)
+* N5 - これ (Kore), それ (Sore), あれ (Are)
+* N5 - 良い (İi), の (No)
+* N5 - い-Sıfatları, な-Sıfatları
 * N5 - か (Ka)
 
-### 🟢 Ders 2: Temel Parçacıklar ve Fiil Yapıları
+### [🟢 Ders 2: Temel Parçacıklar ve Fiil Yapıları](Dilbilgisi/02-Temel-Parcaciklar-Ve-Fiiller.md)
 *(Eylem cümlelerine giriş)*
-* N5 - が (Ga)
-* N5 - よ (Yo)
-* N5 - は (Wa)
-* N5 - ね (Ne)
-* N5 - Ru-Fiilleri (Sözlük)
-* N5 - U-Fiilleri (Sözlük)
-* N5 - を(O / Wo)
-* N5 - ます (Masu)
-* N5 - Ru-Fiilleri (Olumsuz)
-* N5 - U-Fiilleri (Olumsuz)
-* N5 - と (To)
-* N5 - ここ(Koko)
-* N5 - そこ(Soko)
-* N5 - あそこ (Asoko)
+* N5 - が (Ga), よ (Yo), は (Wa), ね (Ne)
+* N5 - Ru-Fiilleri ve U-Fiilleri (Sözlük)
+* N5 - を(O / Wo), ます (Masu)
+* N5 - Fiillerin Olumsuz Halleri (Nai)
+* N5 - と (To), ここ, そこ, あそこ
 
-### 🟢 Ders 3: Diğer Kritik Edatlar
+### [🟢 Ders 3: Diğer Kritik Edatlar](Dilbilgisi/03-Diger-Kritik-Edatlar.md)
 *(Yer, yön ve varlık)*
-* N5 - で (De)
-* N5 - に (Ni)
-* N5 - か (Ka) (Veya)
-* N5 - と (To) (İle)
-* N5 - でしょう (Deshou)
-* N5 - だろう(Darou)
-* N5 - が有る - がある (Ga Aru)
-* N5 - が居る (が いる - Ga İru)
-* N5 - この (Kono)
-* N5 - その (Sono)
-* N5 - あの (Ano)
-* N5 - んです・のです (Ndesu / Nodesu)
+* N5 - で (De), に (Ni)
+* N5 - か (Ka - Veya), と (To - İle)
+* N5 - でしょう, だろう (Tahmin)
+* N5 - が有る (Cansız), が居る (Canlı)
+* N5 - この, その, あの (Sıfatlar)
+* N5 - んです (Açıklama)
 * N5 - い-Sıfatları (Geçmiş)
 
-### 🟢 Ders 4: İleri Fiil Formları ve Sıfatlar
+### [🟢 Ders 4: İleri Fiil Formları ve Sıfatlar](Dilbilgisi/04-Ileri-Fiil-Formlari-Ve-Sifatlar.md)
 *(Fiil ve sıfatların cümle içinde etkileşimi)*
-* N5 - のは・のが (No wa / No ga)
-* N5 - い-Sıfatı + İsim
-* N5 - な-Sıfatı + İsim
-* N5 - へ行く(E iku)
-* N5 - する(Suru)
-* N5 - 来る(Kuru)
-* N5 - Ru-Fiilleri (Geçmiş)
-* N5 - U-Fiilleri (Geçmiş)
-* N5 - 好き - すき (Suki)
-* N5 - 嫌い - きらい (Kirai)
-* N5 - のが好き - のがすき - (No Ga Suki)
-* N5 - がある + İsim (Ga aru + İsim)
-* N5 - くない (Kunai)
+* N5 - のは・のが (Fiili isimleştirme)
+* N5 - Sıfat Tamlamaları (İ ve Na)
+* N5 - へ行く (Yönelme), する, 来る
+* N5 - Fiillerin Geçmiş Zamanı (Ta formu)
+* N5 - 好き, 嫌い (Sevmek/Sevmemek)
+* N5 - がある (Sahiplik)
+* N5 - くない (Sıfat Olumsuz)
 
-### 🟢 Ders 5: Cümle Bağlama ve Neden-Sonuç İlişkileri
+### [🟢 Ders 5: Cümle Bağlama ve Neden-Sonuç İlişkileri](Dilbilgisi/05-Cumle-Baglama-Ve-Neden-Sonuc.md)
 *(Cümleleri birbirine ulamak)*
-* N5 - で (De)
-* N5 - ので (Node)
-* N5 - から (Kara) (Sebep)
-* N5 - から (Kara) (Ayrılma)
-* N5 - けど (Kedo)
-* N5 - が (Ga) (Zıtlık)
-* N5 - Ru-Fiilleri (Olumsuz-Geçmiş)
-* N5 - U-Fiilleri (Olumsuz-Geçmiş)
-* N5 - ～て (De) (Bağlaç)
-* N5 - ～ている ① (～Te iru)
-* N5 - へ (E)
-* N5 - ～に行く (Ni iku)
+* N5 - で (Araç), ので (Sebep), から (Sebep/Ayrılma)
+* N5 - けど, が (Zıtlık - Ama)
+* N5 - Olumsuz Geçmiş Zamanlar (Fiiller)
+* N5 - ～て (Bağlaç)
+* N5 - ～ている (Şimdiki Zaman)
+* N5 - へ (Yönelme), ～に行く (Amaç)
 
-### 🟢 Ders 6: Temel Bilgideki Boşlukları Doldurmak
+### [🟢 Ders 6: Temel Bilgideki Boşlukları Doldurmak](Dilbilgisi/06-Temel-Bilgideki-Bosluklar.md)
 *(Zamanlar ve alıntılar)*
-* N5 - 誰 - だれ - (Dare)
-* N5 - い-Sıfatı + です
-* N5 - な-Sıfatı + だ
-* N5 - だった・でした (Datta - Deshita)
-* N5 - じゃない (Janai)
-* N5 - じゃなかった (Janakatta)
-* N5 - くなかった (Kunakatta)
-* N5 - と - To (Alıntı)
-* N5 - って (Tte)
-* N5 - Fiil (Geniş/Gelecek)
-* N5 - ～た + İsim (Ta + isim)
-* N5 - の (No) (İyelik)
-* N5 - な (Na) (Yasaklama)
+* N5 - 誰 (Kim?), Sıfat Cümlesi Yüklemleri
+* N5 - だった・でした (Geçmiş)
+* N5 - じゃない, じゃなかった (Olumsuzluklar)
+* N5 - と, って (Alıntı)
+* N5 - Fiil Düz Formları
+* N5 - ～た + İsim (Sıfat-Fiil)
+* N5 - の (İyelik), な (Yasaklama)
 
-### 🟢 Ders 7: İleri Seviye Bağlaçlar ve Tanımlamalar
+### [🟢 Ders 7: İleri Seviye Bağlaçlar ve Tanımlamalar](Dilbilgisi/07-Ileri-Seviye-Baglaclar.md)
 *(Kısıtlamalar ve istekler)*
-* N5 - だけ (Dake)
-* N5 - どれ (Dore)
-* N5 - どこ(Doko)
-* N5 - どの (Dono)
-* N5 - ～ている ② (～Te iru)
-* N5 - ～てから (～Te kara)
-* N5 - ～て (～Te) (Sıralama)
-* N5 - もう(Mou)
-* N5 - まだ (Mada)
-* N5 - まだ～ていません (Mada ~te imasen)
-* N5 - ～てもいい (～Te mo ii)
-* N5 - たい (Tai)
-* N5 - たり～たりする
+* N5 - だけ (Sadece)
+* N5 - どれ, どこ, どの (Soru Kelimeleri)
+* N5 - ～ている (Durum Bildirme)
+* N5 - ～てから (Yaptıktan Sonra)
+* N5 - ～て (Sıralama)
+* N5 - もう, まだ (Artık/Henüz)
+* N5 - ～てもいい (İzin), たい (İstek), たり～たり
 
-### 🟢 Ders 8: Miktar ve Karşılaştırma
+### [🟢 Ders 8: Miktar ve Karşılaştırma](Dilbilgisi/08-Miktar-Ve-Karsilastirma.md)
 *(Kıyaslamalar ve derecelendirme)*
-* N5 - 結構  (Kekkou)
-* N5 - 沢山 (Takusan)
-* N5 - 前に - まえに (Mae ni)
-* N5 - くらい ① (Kurai)
-* N5 - İsim + まで (Made)
-* N5 - Fiil + まで (Made)
-* N5 - 過ぎる - すぎろ (Sugiru)
-* N5 - にする (Ni suru)
-* N5 - になる・くなる (Ni naru - ku naru)
-* N5 - の中で～が一番 - のなかで～が一いちばん
-* N5 - より～の方が - より～のほうが (Yori～no hou ga)
-* N5 - 何か なにか (Nanika) (Belgisiz)
-* N5 - 誰か・どこか (Dokoka)
+* N5 - 結構, 沢山 (Miktar)
+* N5 - 前に (Önce), くらい (Civarı)
+* N5 - まで (Kadar), 過ぎる (Aşırı)
+* N5 - にする (Karar), なる (Olmak)
+* N5 - En üstünlük (Ichiban)
+* N5 - Karşılaştırma (Yori... hou ga)
+* N5 - 何か, 誰か (Belgisiz zamirler)
 
-### 🟢 Ders 9: Öneri ve Ricalar
+### [🟢 Ders 9: Öneri ve Ricalar](Dilbilgisi/09-Oneri-Ve-Ricalar.md)
 *(Nezaket ve Zorunluluk)*
-* N5 - ましょう (Mashou)
-* N5 - ましょうか (Mashouka)
-* N5 - ませんか (Masenka)
-* N5 - ～てもいい (Fiil) (～Temoii)
-* N5 - ～て下さい (～Te kudasai)
-* N5 - ～ないで下さい - (～Naide kudasai)
-* N5 - ～てはいけない (～Te wa ikenai)
-* N5 - なくてはいけない - (Nakute wa ikenai)
-* N5 - なくてはならない (Nakute wa naranai)
-* N5 - ～た方がいい - ～たほうがいい (～Ta hou ga ii)
-* N5 - ない方がいい - ないほうがいい (Nai hou ga ii)
-* N5 - なくちゃ・なきゃ - (Nakucha - Nakya)
-* N5 - や (Ya)
+* N5 - ましょう, ませんか (Teklif)
+* N5 - てもいい (İzin), てください (Rica)
+* N5 - ないでください, てはいけない (Yasak/Rica)
+* N5 - なくてはいけない (Zorunluluk)
+* N5 - たほうがいい (Tavsiye)
+* N5 - なくちゃ (Günlük Zorunluluk)
+* N5 - や (Eksik Listeleme)
 
-### 🟢 Ders 10: Deneyim ve Verme/Alma
+### [🟢 Ders 10: Deneyim ve Verme/Alma](Dilbilgisi/10-Deneyim-Verme-Alma-Ve-Ozet.md)
 *(Tecrübeler ve yönlü fiiller)*
-* N5 - ～たことがある (～Ta koto ga aru)
-* N5 - ～ている ③ (～Te iru)
-* N5 - ～て (～Te) (Sıfat Bağlama)
-* N5 - のが下手 - のがへた (No ga heta)
-* N5 - のが上手 - のがじょうず (No ga jouzu)
-* N5 - Sıfat + のは (No wa)
-* N5 - あげる (Ageru)
-* N5 - くれる(Kureru)
-* N5 - 貰う - もらう (Morau)
-* N5 - けれども (Keredomo)
-* N5 - つもりだ (Tsumori da)
-
-### ⚡ N5 Dil Bilgisi - Büyük Özet Tablosu
-
+* N5 - ～たことがある (Deneyim)
+* N5 - ～ている (Alışkanlık)
+* N5 - ～て (Sıfat Bağlama)
+* N5 - 下手, 上手 (Beceri)
+* N5 - Sıfat + のは
+* N5 - あげる, くれる, もらう (Verme/Alma)
+* N5 - けれども (Ama), つもり (Niyet)
+* **⚡ N5 Dil Bilgisi - Büyük Özet Tablosu**
 ---
 
 ## 🌟 SON SÖZ
