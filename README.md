@@ -1,3 +1,22 @@
+<div align="center">
+  
+  <img src="Gorseller/logo.png" width="150" height="150" alt="Proje Logosu">
+  <br>
+
+  <img src="Gorseller/kapak.jpg" width="100%" alt="Kapak Görseli">
+
+  <h1>JAPONCA N5</h1>
+  <h3>Türkçe Mantığı ve Kültürel Kodlarla Kılavuzu</h3>
+  
+  <p>
+    "Ezberleme, Mantığını Kavra."
+  </p>
+  
+  <br>
+</div>
+
+---
+
 # JAPONCA N5
 **Türkçe Mantığı ve Kültürel Kodlarla Kılavuzu**
 
