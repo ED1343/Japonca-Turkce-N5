@@ -17,15 +17,6 @@
 
 ---
 
-# JAPONCA N5
-**Türkçe Mantığı ve Kültürel Kodlarla Kılavuzu**
-
-> "Ezberleme, Mantığını Kavra."
-
-*Ankara, Aralık - 2025*
-
----
-
 ## 📖 ÖNSÖZ
 
 Japonca, ilk bakışta karmaşık yazı sistemi ve farklı yapısıyla zorlayıcı görünse de, aslında Türkçe ile şaşırtıcı derecede benzer bir mantığa sahiptir. Yıllardır süregelen klasik öğrenme metotları, Japoncayı "ezberlenmesi gereken formüller yığını" olarak sunsa da, bu rehber farklı bir yol izlemektedir.
