@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="Gorseller/logo.png" width="150" height="150" alt="Proje Logosu">
+  <img src="Gorseller/logo.png" width="424" height="632" alt="Proje Logosu">
   <br>
 
   <img src="Gorseller/kapak.jpg" width="100%" alt="Kapak Görseli">
