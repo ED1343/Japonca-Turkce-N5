@@ -186,4 +186,17 @@ Başarılar dilerim.
 
 ### ⚡ N5 Dil Bilgisi - Büyük Özet Tablosu
 
-### 🌟 SON SÖZ
+---
+
+## 🌟 SON SÖZ
+
+Tebrikler! Japoncanın temel taşı olan N5 dil bilgisini tamamladınız.
+
+Bu sayfalarda öğrendiğiniz kurallar, ileride kuracağınız en karmaşık cümlelerin bile temelini oluşturacaktır. Başlangıçta sadece kendi ihtiyaçlarımı karşılamak amacıyla bir not defteri olarak başlayan bu çalışmanın, Türkçe üzerinden Japonca öğrenmeye gönül veren herkese ışık tutmasını ve bu yolda karşılaşabilecekleri zorlukları hafifletmesini temenni ediyorum.
+
+Unutmayın ki bir dili öğrenmek, sadece kelimeleri ezberlemek değil, o dilin düşünce yapısını kavramaktır. Şimdi sırada, bu yapıları kullanarak bol bol pratik yapmak ve Kanji'nin büyülü dünyasına adım atmak var.
+
+Yolunuz açık olsun.
+
+**頑張ってください! (Ganbatte kudasai!)**
+*(Elinizden gelenin en iyisini yapın / Başarılar!)*
