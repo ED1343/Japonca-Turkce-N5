@@ -3,18 +3,28 @@
   <img src="Gorseller/logo.png" width="424" height="632" alt="Proje Logosu">
   <br>
 
-  <img src="Gorseller/kapak.jpg" width="100%" alt="Kapak Görseli">
-
-  <h1>JAPONCA N5</h1>
+  <div align="center">
+  
+  <br>
+  <h1>🇯🇵 JAPONCA N5 🇹🇷</h1>
   <h3>Türkçe Mantığı ve Kültürel Kodlarla Kılavuzu</h3>
   
+  <br>
+  
   <p>
-    "Ezberleme, Mantığını Kavra."
+    <em>"Ezberleme, Mantığını Kavra."</em>
+  </p>
+  
+  <br>
+  
+  <p>
+    <strong>Ankara, Aralık - 2025</strong>
   </p>
   
   <br>
 </div>
 
+---
 ---
 
 ## 📖 ÖNSÖZ
