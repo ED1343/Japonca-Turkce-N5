@@ -44,9 +44,3 @@ Kişisel çalışma notlarının derlenmesiyle başlayan bu rehber; **Türkçe v
 ### ⚡ Hızlı Erişim
 
 * [**Büyük Özet Tablosu**](Dilbilgisi/11-Ozet-Tablosu.md): Tüm N5 formüllerini tek bir tabloda görebileceğiniz özet.
-
----
-
-<div align="center">
-  <i>Japonya yolculuğunuzda size bir pusula olması dileğiyle.</i>
-</div>
