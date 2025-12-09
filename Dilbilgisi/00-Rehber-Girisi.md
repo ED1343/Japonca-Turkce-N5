@@ -2,6 +2,7 @@
 **Türkçe Mantığı ve Kültürel Kodlarla Dil Bilgisi Kılavuzu**
 
   <p>Ankara, Aralık - 2025</p>
+
 ---
 
 ## 🎐 ÖNSÖZ
