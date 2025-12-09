@@ -9,7 +9,11 @@ Japonca, ilk bakışta karmaşık yazı sistemi ve farklı yapısıyla zorlayıc
 
 Ülkemizde Japonca öğrenmek isteyenler için Türkçe kaynakların yetersizliği ne yazık ki bilinen bir gerçektir. Mevcut kaynakların büyük çoğunluğu İngilizce tabanlıdır. Ancak İngilizce ve Japonca, dil bilgisi yapısı ve mantığı (Özne-Yüklem ilişkisi) bakımından birbirine tamamen zıt kutuplardadır. Oysa Türkçe ve Japonca, sondan eklemeli yapıları ve cümle dizilişleri ile aynı dil ailesinin üyeleri gibi hareket ederler. İngilizce üzerinden Japonca öğrenmek, düz bir yolda ters şeritten gitmeye çalışmak gibiyken; Türkçe üzerinden öğrenmek, tanıdık bir yolda yürümek kadar doğaldır.
 
-Elinizdeki bu çalışma, işte bu eksikliği gidermek ve Türkçe konuşanların sahip olduğu bu doğal avantajı kullanmak amacıyla hazırlanmıştır. Sadece JLPT N5 sınavını geçmeniz için gereken teknik bilgileri vermekle kalmaz; aynı zamanda dilin ruhunu, Japon toplumundaki "saygı ve mesafe" kavramlarını ve bunların Türk kültüründeki karşılıklarını da sunar.
+Elinizdeki bu çalışma, işte bu eksikliği gidermek ve Türkçe konuşanların sahip olduğu bu doğal avantajı kullanmak amacıyla, öncelikle kişisel bir çalışma notu olarak filizlenmiş; bilginin paylaştıkça değerlendiği inancıyla amatör bir ruhla, ancak titizlikle (ve dijital çağın getirdiği yapay zeka araçlarının da desteğiyle) kapsamlı bir rehbere dönüştürülmüştür.
+
+Bu kılavuz, sadece JLPT N5 sınavını geçmeniz için gereken teknik bilgileri vermekle kalmaz; aynı zamanda dilin ruhunu, Japon toplumundaki "saygı ve mesafe" kavramlarını ve bunların Türk kültüründeki karşılıklarını da sunar. "Türkçe Mantığı" bölümlerinde, Japonca gramer yapılarının Türkçedeki "kardeşlerini" bulacak; "Kültürel Bağlam" bölümlerinde ise bir kelimenin sadece sözlük anlamını değil, Japonya sokaklarındaki sosyal karşılığını öğreneceksiniz.
+
+Bu çalışma, sadece bir ders notu değil, Japonya yolculuğunuzda size eşlik edecek bir kültür pusulasıdır.
 
 Başarılar dilerim.
 
