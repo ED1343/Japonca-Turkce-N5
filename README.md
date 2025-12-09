@@ -124,7 +124,7 @@ Başarılar dilerim.
 * N5 - Sıfat + のは
 * N5 - あげる, くれる, もらう (Verme/Alma)
 * N5 - けれども (Ama), つもり (Niyet)
-* **⚡ N5 Dil Bilgisi - Büyük Özet Tablosu**
+### [⚡ N5 Dil Bilgisi - Büyük Özet Tablosu](Dilbilgisi/11-Ozet-Tablosu.md)
 ---
 
 ## 🌟 SON SÖZ
