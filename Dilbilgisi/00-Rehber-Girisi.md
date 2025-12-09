@@ -1,6 +1,7 @@
-# 📖 JAPONCA N5 DİL BİLGİSİ REHBERİ
-**Türkçe Mantığı ve Kültürel Kodlarla Açıklamalı**
+# 📖 JAPONCA N5 DİL BİLGİSİ KILAVUZU
+**Türkçe Mantığı ve Kültürel Kodlarla Dil Bilgisi Kılavuzu**
 
+  <p>Ankara, Aralık - 2025</p>
 ---
 
 ## 🎐 ÖNSÖZ
@@ -19,7 +20,7 @@ Başarılar dilerim.
 
 ---
 
-## 📑 MÜFREDAT VE İÇİNDEKİLER
+## 📑 İÇİNDEKİLER
 
 ### [🟢 Ders 1: Doğal Bir Cümle Kurmanın Temelleri](01-Temel-Cumleler.md)
 *(İsim Cümleleri ve Temel İşaretler)*
