@@ -154,7 +154,7 @@
    Şu da kitaptır. (Kullanım: Bir nesneye benzer bir ekleme)
 3. **きょうも休みです。** (きょうも やすみ です。)
    Bugün de tatil. (Kullanım: Geçmiş ve şimdiki zaman arasında benzer bir durumu belirtme)
-4. **たなかさんもテニスをします。** (たなかさんも テニスを します。)
+4. **田中さんもテニスをします。** (たなかさんも テニスを します。)
    Tanaka-san da tenis oynar. (Kullanım: Farklı öznelerin aynı eylemi yaptığını belirtme)
 
 ### 🎓 Eğitmenin Notu ve Kültürel Bağlam:
@@ -475,7 +475,7 @@ Bu sıfatların iki temel kullanım şekli vardır:
    Şu oda temiz değildir. (Kullanım: Olumsuz İsim Cümlesi)
 3. **これはゆうめいなレストランです。** (これは ゆうめいな レストラン です。)
    Bu, ünlü bir restorandır. (Kullanım: Bir ismi niteleme - Sıfat)
-4. **たなかさんはしんせつでしたか。** (たなかさんは しんせつ でした か。)
+4. **田中さんは親切でしたか。** (たなかさんは しんせつ でした か。)
    Tanaka-san nazik miydi? (Kullanım: Geçmiş Zaman Soru Cümlesi)
 
 ### 🎓 Eğitmenin Notu ve Kültürel Bağlam:
