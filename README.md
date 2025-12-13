@@ -41,6 +41,14 @@ Kişisel çalışma notlarının derlenmesiyle başlayan bu rehber; **Türkçe v
 
 ---
 
+### 📥 E-Kitap Olarak İndir (PDF)
+
+Bu rehberi tek parça **PDF dosyası** olarak bilgisayarınıza veya telefonunuza indirip çevrimdışı okuyabilirsiniz:
+
+* [**👉 Japonca N5 Rehberi - PDF İndir (Son Sürüm)**](https://github.com/ED1343/Japonca-Turkce-N5/releases/latest)
+
+---
+
 ### ⚡ Hızlı Erişim
 
 * [**Büyük Özet Tablosu**](Dilbilgisi/11-Ozet-Tablosu.md): Tüm N5 formüllerini tek bir tabloda görebileceğiniz özet.
