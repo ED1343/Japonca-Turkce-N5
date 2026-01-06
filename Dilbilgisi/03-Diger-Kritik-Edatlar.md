@@ -419,13 +419,13 @@ Japoncada bu tür işaret sözcükleri bir sistematiğe sahiptir ve genellikle "
 * **これ (kore):** Bu (Tek başına kullanılan işaret zamiridir, bir ismin önüne gelmez. Örneğin, "Bu güzeldir." demek için kullanılır.)
 
 ### 📝 Örnek Cümleler:
-1. **このほんはおもしろいです。** (この ほん は おもしろい です。)
+1. **この本は面白いです。** (この ほん は おもしろい です。)
    Bu kitap ilginçtir. (Kullanım: Basit isim cümlesi, bir nesneyi işaret etme)
-2. **このくるまはわたしのですか。** (この くるま は わたし の です か。)
+2. **この車は私のですか。** (この くるま は わたし の です か。)
    Bu araba benim mi? (Kullanım: Soru cümlesi, sahiplik sorgulama)
-3. **このかばんはたかいです。** (この かばん は たかい です。)
+3. **このカバンは高いです。** (この かばん は たかい です。)
    Bu çanta pahalıdır. (Kullanım: Sıfatla birlikte kullanım)
-4. **このひとはたなかさんです。** (この ひと は たなか さん です。)
+4. **この人は田中さんです。** (この ひと は たなか さん です。)
    Bu kişi Tanaka-san'dır. (Kullanım: Bir kişiyi tanıtma veya işaret etme)
 
 ### 🎓 Eğitmenin Notu ve Kültürel Bağlam:
